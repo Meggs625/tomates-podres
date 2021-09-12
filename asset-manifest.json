@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tomates-podres/static/css/main.b8d5cf9f.chunk.css",
+    "main.css": "/tomates-podres/static/css/main.c72d0d57.chunk.css",
     "main.js": "/tomates-podres/static/js/main.9e6e211b.chunk.js",
     "main.js.map": "/tomates-podres/static/js/main.9e6e211b.chunk.js.map",
     "runtime-main.js": "/tomates-podres/static/js/runtime-main.6ada85ab.js",
@@ -8,14 +8,14 @@
     "static/js/2.3f676039.chunk.js": "/tomates-podres/static/js/2.3f676039.chunk.js",
     "static/js/2.3f676039.chunk.js.map": "/tomates-podres/static/js/2.3f676039.chunk.js.map",
     "index.html": "/tomates-podres/index.html",
-    "static/css/main.b8d5cf9f.chunk.css.map": "/tomates-podres/static/css/main.b8d5cf9f.chunk.css.map",
+    "static/css/main.c72d0d57.chunk.css.map": "/tomates-podres/static/css/main.c72d0d57.chunk.css.map",
     "static/js/2.3f676039.chunk.js.LICENSE.txt": "/tomates-podres/static/js/2.3f676039.chunk.js.LICENSE.txt",
     "static/media/tomato1.118f74cf.svg": "/tomates-podres/static/media/tomato1.118f74cf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6ada85ab.js",
     "static/js/2.3f676039.chunk.js",
-    "static/css/main.b8d5cf9f.chunk.css",
+    "static/css/main.c72d0d57.chunk.css",
     "static/js/main.9e6e211b.chunk.js"
   ]
 }
